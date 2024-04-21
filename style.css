@@ -1,0 +1,36 @@
+.imagin-cooks__wrap {
+  max-width: 1440px;
+  height: auto;
+}
+.imagin-cooks__title {
+  text-align: center;
+  font-family: "Tinos";
+  font-size: 54px;
+  font-weight: 400;
+  line-height: 1.15;
+}
+.imagin-cooks__title span {
+  color: rgb(214, 126, 52);
+}
+.imagin-cooks__all-cooks {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding-top: 50px;
+}
+.imagin-cooks__cook {
+  max-width: 0 1 32.1%;
+}
+.imagin-cooks__chef {
+  max-width: 0 1 32.1%;
+}
+.imagin-cooks__kitchener {
+  max-width: 0 1 32.1%;
+}
+.imagin-cooks__bar {
+  max-width: 1440px;
+  height: 732px;
+  padding-top: 20px;
+  margin-left: -150px;
+}/*# sourceMappingURL=style.css.map */
